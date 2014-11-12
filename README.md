@@ -9,6 +9,7 @@ To install you will need gulp, bower, and node.
 ``` sh
 npm install gulp -g
 npm install bower -g
+npm install
 ```
 
 To start the server, just run
